@@ -22,6 +22,12 @@
     "cli#build": {
       "outputs": ["turbo", "turbo.exe"],
       "dependsOn": []
+      },
+    "cli#build": {
+      "outputs": ["vercel + turbo", "turbo.exe"],
+      "dependsOn": [] react (new build)
+      
+      
     },
     "schema": {
       "outputs": ["public/schema.json"]
