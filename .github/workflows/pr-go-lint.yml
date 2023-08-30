@@ -1,3 +1,4 @@
+-skip
 name: CLI Linter
 
 concurrency:
